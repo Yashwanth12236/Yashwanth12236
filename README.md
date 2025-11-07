@@ -68,6 +68,3 @@ www.linkedin.com/in/yashwanth-baggineni
 
 📧 Email: baggineniyashwanth@email.com
 
-💬 Keywords (ATS-Friendly)
-
-Data Analysis · Python · SQL · Power BI · Tableau · Excel · Data Cleaning · Dashboard Development · Data Visualization · ETL · Statistical Analysis · Data Integrity · Business Intelligence
