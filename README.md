@@ -62,6 +62,8 @@ SQL for Data Analysis — Udemy
 
 
 🌐 Connect with Me
+www.linkedin.com/in/yashwanth-baggineni
+
 
 
 📧 Email: baggineniyashwanth@email.com
