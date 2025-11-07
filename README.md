@@ -72,10 +72,8 @@ Vignan Institute of Technology and Science, Hyderabad — *CGPA: 7.2 (2025)*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashwanth_Raja_Baggineni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yashwanth-raja-baggineni-526773256/)  
 📧 **Email:** baggineniyashwanth@email.com  
 
----
 
-### 🧩 Keywords for Recruiters  
-`Data Analysis` · `Python` · `SQL` · `Power BI` · `Tableau` · `Excel` · `ETL` · `Data Visualization` · `Data Cleaning` · `Business Intelligence` · `Dashboard Development` · `Statistical Analysis`
+
 
 ---
 
