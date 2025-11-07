@@ -1,10 +1,17 @@
-[YashwanthRaja_Modern_README.md](https://github.com/user-attachments/files/23416638/YashwanthRaja_Modern_README.md)
-<!-- Animated Banner -->
+# 👋 Hi there, I'm **Yashwanth Raja Baggineni**
+
+🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Excel**
+
+---
+## 🌐 Connect with Me  
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Yashwanth+Raja+Baggineni!;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/yashwanth-raja-baggineni-526773256/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:baggineniyashwanth@email.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
+
 
 ## 🚀 About Me  
 
@@ -76,14 +83,7 @@ I thrive on transforming complex data into clear, actionable insights that drive
 
 ---
 
-## 🌐 Connect with Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yashwanth-raja-baggineni-526773256/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:baggineniyashwanth@email.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-</p>
-
----
 
 ## 🧩 Recruiter Highlights  
 ✅ Open to Work: **Data Analyst | Business Analyst | Data Science Intern**  
