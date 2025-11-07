@@ -1,4 +1,4 @@
-
+[YashwanthRaja_Modern_README.md](https://github.com/user-attachments/files/23416638/YashwanthRaja_Modern_README.md)
 <!-- Animated Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Yashwanth+Raja+Baggineni!;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
