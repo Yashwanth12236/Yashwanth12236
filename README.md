@@ -1,80 +1,100 @@
-# 👋 Hi there, I'm **Yashwanth Raja Baggineni**
 
-🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Excel**
-
----
-
-## 🧭 About Me  
-I’m a **detail-oriented Data Analyst** passionate about transforming raw data into meaningful insights that drive business success.  
-I enjoy working with **Python, SQL, and visualization tools** to uncover patterns, optimize processes, and support data-driven decision-making.  
-
-💡 *“Data tells a story — I love being the storyteller.”*
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Yashwanth+Raja+Baggineni!;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+</p>
 
 ---
 
-## ⚙️ Technical Skills  
+## 🚀 About Me  
 
-| Category | Tools & Technologies |
-|-----------|---------------------|
-| **Programming** | Python, C++, SQL, MATLAB |
-| **Data Analysis** | Data Collection, Cleaning, Integrity, Database Management |
-| **Libraries & Tools** | Pandas, NumPy, Git |
-| **Visualization** | Tableau, Power BI, Google Data Studio, Excel |
+🎯 **Aspiring Data Analyst** with a strong foundation in **data analytics, visualization, and business intelligence**.  
+I thrive on transforming complex data into clear, actionable insights that drive strategic decisions.  
+
+💡 *Currently open to exciting Data Analyst opportunities where I can apply my analytical mindset, problem-solving approach, and tech expertise to create value.*  
+
+🌱 **Career Goal:** To become a **Data Analytics Specialist** who bridges the gap between raw data and impactful business outcomes through technology-driven insights.  
 
 ---
 
-## 🚀 Projects  
+## 🧠 Technical Toolkit  
+
+| 💻 Category | 🧩 Tools & Technologies |
+|--------------|--------------------------|
+| **Programming & Querying** | Python 🐍 · SQL 💾 · C++ ⚙️ · MATLAB 🔬 |
+| **Data Analytics** | Data Cleaning · Data Transformation · Data Integrity · Database Management |
+| **Libraries** | Pandas · NumPy · Matplotlib · Seaborn · Git |
+| **Visualization** | Power BI 📊 · Tableau 📈 · Excel 📑 · Google Data Studio |
+| **Concepts** | ETL · Statistical Analysis · Reporting · Business Intelligence |
+
+---
+
+## 💼 Professional Experience  
+
+### 🧾 **Junior Analyst Intern — Vangrove Tech, Hyderabad (Sept 2025)**  
+🔹 Performed **data cleaning and preprocessing** using Python and SQL, improving data accuracy by **15%**.  
+🔹 Created **interactive Power BI dashboards** for KPI tracking and business insights.  
+🔹 Worked cross-functionally to enhance **workflow automation and reporting consistency**.  
+
+---
+
+## 🚀 Featured Projects  
 
 ### 🧩 **Anti-Stampede Monitoring System Using Raspberry Pi**  
-*IoT & Real-Time Data Analytics | Python, Raspberry Pi, OpenCV*  
-- Developed a smart monitoring system for **crowd density detection** and **real-time alerting**.  
-- Integrated IoT sensors to continuously collect and analyze data.  
-- Built automated alert mechanisms using **visual and auditory cues** to prevent accidents.
-
----
+*IoT & Real-Time Analytics | Python · Raspberry Pi · OpenCV*  
+- Designed a **real-time alert system** using crowd density analysis to prevent stampedes.  
+- Integrated IoT sensors for continuous monitoring and **predictive analytics**.  
+- Implemented an **automated alert mechanism** using audio-visual indicators.
 
 ### 🚗 **Geo-Fence Based Vehicle Tracking System**  
-*Embedded & IoT Project | Python, GPS Module, IoT Cloud*  
-- Created a **geo-fence tracking system** to monitor vehicles and trigger alerts on boundary breaches.  
-- Utilized IoT cloud services for **live data transmission and dashboards**.  
-- Demonstrated proficiency in **Python-based IoT data analytics**.
-
----
-
-## 💼 Experience  
-
-### **Junior Analyst Intern — Vangrove Tech, Hyderabad (Sept 2025)**  
-- Cleaned and analyzed datasets using **Python & SQL**, improving data accuracy by **15%**.  
-- Built **interactive dashboards** using Power BI and Excel for KPI reporting.  
-- Collaborated with cross-functional teams to **streamline data workflows** and enhance consistency.
+*IoT & Embedded Systems | Python · GPS Module · IoT Cloud*  
+- Developed a **geo-fence tracking system** for live vehicle monitoring.  
+- Built dashboards on IoT Cloud for **real-time boundary alerts**.  
+- Demonstrated skills in **data transmission, visualization, and IoT integration**.
 
 ---
 
 ## 🎓 Education  
-**B.Tech in Electronics and Communication Engineering**  
-Vignan Institute of Technology and Science, Hyderabad — *CGPA: 7.2 (2025)*
+🎓 **B.Tech in Electronics and Communication Engineering**  
+**Vignan Institute of Technology and Science, Hyderabad** — *CGPA: 7.2 (2025)*  
 
 ---
 
-## 🧾 Certifications  
-- **Data Analytics Virtual Experience — Deloitte Australia (Forage)**  
-- **SQL for Data Analysis — Udemy**
+## 🏅 Certifications  
+📘 **Data Analytics Virtual Experience — Deloitte Australia (Forage)**  
+📗 **SQL for Data Analysis — Udemy**  
 
 ---
 
-## 📊 GitHub Analytics  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashwanthRaja&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashwanthRaja&layout=compact&theme=react)
+## 📊 GitHub Performance Dashboard  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashwanthRaja&theme=react&hide_border=true" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YashwanthRaja&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashwanthRaja&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashwanth_Raja_Baggineni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yashwanth-raja-baggineni-526773256/)  
-📧 **Email:** baggineniyashwanth@email.com  
 
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashwanth-raja-baggineni-526773256/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:baggineniyashwanth@email.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
-⭐ *"Let’s collaborate and turn data into impactful insights!"*
+## 🧩 Recruiter Highlights  
+✅ Open to Work: **Data Analyst | Business Analyst | Data Science Intern**  
+✅ Strong foundation in **Python, SQL, Data Visualization, BI Dashboards, and ETL Pipelines**  
+✅ Proven ability to **analyze, interpret, and communicate insights** effectively to drive growth  
+
+---
+
+## ✨ Fun Fact  
+> “I don’t just analyze data — I tell its story through visuals, dashboards, and insights that inspire action.”  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBtbmZraTg5N2F1Mmp2cGc3aHJzMmpoZ2hsYmxxaDRpbTZiZHZyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
+</p>
