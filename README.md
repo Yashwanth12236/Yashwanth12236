@@ -3,7 +3,9 @@
 </p>
 
 ---
-
+<p align="center">
+  **YASHWANTH RAJA BAGGINENI | STRATEGIC DATA ANALYST**
+</p>
 ## 💎 Data Analyst & Business Intelligence Specialist
 
 ### **Value Proposition at a Glance**
@@ -12,9 +14,7 @@
 * **🛠️ Technical Acumen:** Proficient in the end-to-end data lifecycle, specializing in **Python** 🐍, **SQL** 💾, and advanced visualization tools like **Power BI** 📊 and **Tableau** 📈.
 * **🚀 Career Objective:** Seeking to **drive strategic decisions** by applying an analytical mindset and technology-driven insights in a dynamic organization.
 
-<p align="center">
-  **YASHWANTH RAJA BAGGINENI | STRATEGIC DATA ANALYST**
-</p>
+
 
 ---
 
