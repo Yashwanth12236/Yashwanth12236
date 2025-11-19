@@ -67,8 +67,7 @@ Projects highlighting my ability to move beyond simple analysis to **predictive 
 ### My GitHub Stats
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-
-Username]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username= https://github.com/Yashwanth12236&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub
 
 Stats" />
 
