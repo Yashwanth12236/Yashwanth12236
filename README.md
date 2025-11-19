@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Yashwanth+Raja+Baggineni!;Data+Analyst+%7C+Business+Intelligence+%7C+Problem+Solver;Transforming+Data+into+Strategic+Business+Decisions" alt="Typing SVG" />
+  # ✨ YASHWANTH RAJA BAGGINENI ✨
+  ## 📊 DATA ANALYST | BUSINESS INTELLIGENCE SPECIALIST 📈
+  ***Transforming Data into Strategic Decisions***
 </p>
 
 ---
