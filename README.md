@@ -1,7 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Yashwanth+Raja+Baggineni!;Data+Analyst+%7C+Business+Intelligence+%7C+Problem+Solver;Transforming+Data+into+Strategic+Business+Decisions" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkZXNwaDJ1MjZzN2FvdnlkMmFpcW1pMnBpdW5tZWh2MjR4azNzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="700" alt="Animated Data Analysis Process" />
 </p>
 
+---
+
+## 💎 Data Analyst & Business Intelligence Specialist
+
+### **Value Proposition at a Glance**
+
+* **🔍 Analytical Expertise:** Results-driven Data Analyst focused on transforming complex, raw data into **actionable, high-impact business intelligence (BI)**.
+* **🛠️ Technical Acumen:** Proficient in the end-to-end data lifecycle, specializing in **Python** 🐍, **SQL** 💾, and advanced visualization tools like **Power BI** 📊 and **Tableau** 📈.
+* **🚀 Career Objective:** Seeking to drive strategic decisions by applying an analytical mindset and technology-driven insights in a dynamic organization.
+
+<p align="center">
+  **YASHWANTH RAJA BAGGINENI | STRATEGIC DATA ANALYST**
+</p>
+
+---
 ---
 
 ## 🎯 Professional Profile & Value Proposition
