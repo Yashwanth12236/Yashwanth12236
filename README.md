@@ -64,16 +64,18 @@ Projects highlighting my ability to move beyond simple analysis to **predictive 
 
 ---
 
-## 📊 GitHub Performance & Commit History
-
-*Recruiters: Review my activity below for consistency and dedication to coding practices.*
-
+### My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashwanthRaja&show_icons=true&theme=buefy&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=333" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashwanthRaja&layout=compact&theme=buefy&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=333" alt="Top Languages" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashwanthRaja&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00C8FF&fire=00C8FF&side_main=333&currStreakLabel=00C8FF" alt="GitHub Streak Stats" />
-</p>
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-
+Username]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub
+
+Stats" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-
+GitHub-Username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</p>
 ---
 
 ## 🌐 Connect & Engage
