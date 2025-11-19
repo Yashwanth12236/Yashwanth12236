@@ -19,11 +19,6 @@
 ---
 ---
 
-## 🎯 Professional Profile & Value Proposition
-
-A **highly motivated and results-driven Aspiring Data Analyst** specializing in translating complex datasets into **actionable business intelligence (BI)**. Equipped with a robust foundation in data manipulation, statistical analysis, and end-to-end visualization, I am focused on **driving strategic decision-making and optimizing business performance.**
-
-💡 *Currently seeking challenging Data Analyst roles to leverage my analytical expertise, technical proficiency (Python, SQL, Power BI), and **consultative approach** to deliver measurable organizational value.*
 
 ⭐ **Core Competency:** Bridging the gap between raw data and impactful business outcomes through technology-driven insights and rigorous data governance.
 
@@ -31,14 +26,27 @@ A **highly motivated and results-driven Aspiring Data Analyst** specializing in 
 
 ## 💻 Technical & Analytical Toolkit (Skills Matrix)
 
-| 📈 Category | 🛠️ Core Capabilities & Tools |
-|:--------------|:--------------------------|
-| **Data Programming & ETL** | **Python** (Pandas, NumPy, Scikit-learn) 🐍 · **SQL** (Database Querying & Management) 💾 · ETL Concepts |
-| **Business Intelligence (BI)** | **Power BI** (Advanced DAX & Report Server) 📊 · **Tableau** (Interactive Dashboards) 📈 · Google Data Studio |
-| **Data Science Libraries** | Pandas · NumPy · Matplotlib · Seaborn · Git · Version Control |
-| **Data Management & Integrity** | Data Cleaning · Data Transformation · Data Validation · **Database Management** · Statistical Analysis |
-| **Complementary** | C++ ⚙️ · MATLAB 🔬 · Excel (Advanced) 📑 · Reporting & Communication |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=00C8FF">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=00C8FF">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&color=00C8FF">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white&color=00C8FF">
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&color=00C8FF">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&color=00C8FF">
+  <img src="https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white&color=00C8FF">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&color=00C8FF">
 
+  <br>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=00C8FF">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=00C8FF">
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white&color=00C8FF">
+  <img src="https://img.shields.io/badge/Seaborn-3C9C22?style=for-the-badge&logo=seaborn&logoColor=white&color=00C8FF">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=00C8FF">
+</p>
 ---
 
 ## 💼 Professional Experience: Driving Impact
