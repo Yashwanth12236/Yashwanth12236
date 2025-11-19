@@ -56,7 +56,9 @@
 
 ### 🧾 **Junior Analyst Intern — Vangrove Tech, Hyderabad (Sept 2025)**
 🔹 **Data Quality & Integrity:** Executed comprehensive **data cleaning and preprocessing pipelines** using **Python and SQL**, resulting in a **15% improvement in data accuracy** and reliability for reporting.
+
 🔹 **Business Intelligence Reporting:** Designed and deployed **interactive, high-value Power BI dashboards** for C-level executives to track key performance indicators (KPIs) and monitor business health.
+
 🔹 **Operational Efficiency:** Collaborated cross-functionally to **streamline workflow automation and standardize reporting consistency**, reducing manual effort and turnaround time.
 
 ---
