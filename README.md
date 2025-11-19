@@ -10,21 +10,15 @@
 
 * **🔍 Analytical Expertise:** Results-driven Data Analyst focused on transforming complex, raw data into **actionable, high-impact business intelligence (BI)**.
 * **🛠️ Technical Acumen:** Proficient in the end-to-end data lifecycle, specializing in **Python** 🐍, **SQL** 💾, and advanced visualization tools like **Power BI** 📊 and **Tableau** 📈.
-* **🚀 Career Objective:** Seeking to drive strategic decisions by applying an analytical mindset and technology-driven insights in a dynamic organization.
+* **🚀 Career Objective:** Seeking to **drive strategic decisions** by applying an analytical mindset and technology-driven insights in a dynamic organization.
 
 <p align="center">
   **YASHWANTH RAJA BAGGINENI | STRATEGIC DATA ANALYST**
 </p>
 
 ---
----
 
-
-⭐ **Core Competency:** Bridging the gap between raw data and impactful business outcomes through technology-driven insights and rigorous data governance.
-
----
-
-## 💻 Technical & Analytical Toolkit (Skills Matrix)
+## 💻 Technical & Analytical Toolkit (Core Competencies)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=00C8FF">
@@ -47,6 +41,15 @@
   <img src="https://img.shields.io/badge/Seaborn-3C9C22?style=for-the-badge&logo=seaborn&logoColor=white&color=00C8FF">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=00C8FF">
 </p>
+
+### 💡 Analytical & Conceptual Competencies
+
+* **ETL Pipelines** ⚙️: Expertise in **Extract, Transform, and Load** processes for data preparation and ingestion.
+* **Data Governance & Integrity** ✅: Focused on **Data Cleaning, Transformation, and Validation** to ensure high-quality datasets.
+* **Statistical Analysis** 📈: Proficient in descriptive statistics and data modeling for generating **actionable insights**.
+* **Version Control (Git)** 🐙: Experience with collaborative development and managing code changes.
+* **Reporting & Communication** 🗣️: Ability to communicate complex findings to both technical and C-level stakeholders.
+
 ---
 
 ## 💼 Professional Experience: Driving Impact
@@ -64,15 +67,15 @@ Projects highlighting my ability to move beyond simple analysis to **predictive 
 
 ### 🧩 **Anti-Stampede Monitoring System (Real-Time Predictive Analytics)**
 *IoT & Real-Time Analytics | Python · Raspberry Pi · OpenCV*
-- Engineered a sophisticated **real-time predictive alert system** leveraging image processing and crowd density analysis to proactively prevent potential stampedes.
-- Integrated IoT sensors for **continuous data streams and predictive modeling**, enhancing public safety protocols.
-- Developed an **automated, instantaneous alert mechanism** with audio-visual indicators for immediate response by personnel.
+-   Engineered a sophisticated **real-time predictive alert system** leveraging image processing and crowd density analysis to proactively prevent potential stampedes.
+-   Integrated IoT sensors for **continuous data streams and predictive modeling**, enhancing public safety protocols.
+-   Developed an **automated, instantaneous alert mechanism** with audio-visual indicators for immediate response by personnel.
 
 ### 🚗 **Geo-Fence Based Vehicle Tracking System (IoT Data Visualization)**
 *IoT & Embedded Systems | Python · GPS Module · IoT Cloud*
-- Developed an end-to-end **geo-fence tracking solution** for live vehicle telemetry and fleet management.
-- Constructed dedicated dashboards on an IoT Cloud platform to provide **real-time boundary breach alerts and asset visibility**.
-- **Validated skills in secure data transmission**, cloud-based visualization, and complex IoT integration.
+-   Developed an end-to-end **geo-fence tracking solution** for live vehicle telemetry and fleet management.
+-   Constructed dedicated dashboards on an IoT Cloud platform to provide **real-time boundary breach alerts and asset visibility**.
+-   **Validated skills in secure data transmission**, cloud-based visualization, and complex IoT integration.
 
 ---
 
